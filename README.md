@@ -16,7 +16,7 @@ Includes a toggle button to show/hide the bird animation.
 
 ## 📂 Project Structure
 vanta-hero/
-│── index.html # Main HTML file (includes inline CSS & JS)
+│── birdAnimation.html # Main HTML file (includes inline CSS & JS)
 
 ---
 
