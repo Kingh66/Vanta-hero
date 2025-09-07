@@ -18,9 +18,6 @@ Includes a toggle button to show/hide the bird animation.
 vanta_hero/
 │── index.html # Main HTML file (includes inline CSS & JS)
 
-yaml
-Copy code
-
 ---
 
 ## 🚀 Live Demo
